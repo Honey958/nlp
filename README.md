@@ -8,3 +8,8 @@ conda install pytorch==1.5.0 torchvision==0.6.0 -c pytorch
 
 Control Panel -> System and Security -> System 
 Advanced System Setting> Environment Variables
+
+
+conda install https://anaconda.org/conda-forge/transformers/4.16.2/download/noarch/transformers-4.16.2-pyhd8ed1ab_0.tar.bz2
+
+
