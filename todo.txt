@@ -1,0 +1,14 @@
+conda activate transformers
+ipython kernel install --user --name=transformers
+
+
+
+
+if nothing happens run this command in jupyter notebook terminal 
+
+
+
+open terminal in transformers mode
+
+
+good to go!!!!
